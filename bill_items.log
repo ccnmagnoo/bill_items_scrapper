@@ -1,0 +1,47 @@
+2026-10-06 11:34:33,184 INFO Pares a procesar: 1
+2026-10-06 11:34:48,677 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 11:34:57,444 WARNING Intento 1 para https://www.chilquinta.cl/profile/public/validate-notlogged/006/rut/12345678-9/nis/999999999 -> HTTP 403
+2026-10-06 11:34:57,445 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 11:35:03,761 WARNING Intento 2 para https://www.chilquinta.cl/profile/public/validate-notlogged/006/rut/12345678-9/nis/999999999 -> HTTP 403
+2026-10-06 11:35:03,762 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 11:35:08,411 WARNING Intento 3 para https://www.chilquinta.cl/profile/public/validate-notlogged/006/rut/12345678-9/nis/999999999 -> HTTP 403
+2026-10-06 11:35:08,412 ERROR rut=12345678-9 cliente=999999999: validacion HTTP 403 -> omitido
+2026-10-06 11:35:11,815 INFO Listo: 0 fila(s) escritas en test_smoke.csv
+2026-10-06 12:57:31,569 INFO Pares a procesar: 1
+2026-10-06 12:57:32,445 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 12:58:15,516 WARNING Intento 1 para https://www.chilquinta.cl/profile/public/validate-notlogged/006/rut/11111111-1/nis/444555666 -> HTTP 504
+2026-10-06 12:58:15,516 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 12:58:52,331 WARNING Intento 2 para https://www.chilquinta.cl/profile/public/validate-notlogged/006/rut/11111111-1/nis/444555666 -> HTTP 504
+2026-10-06 12:58:52,331 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 12:59:00,515 WARNING Intento 3 para https://www.chilquinta.cl/profile/public/validate-notlogged/006/rut/11111111-1/nis/444555666 -> HTTP 504
+2026-10-06 12:59:00,515 ERROR rut=11111111-1 cliente=444555666: validacion HTTP 504 -> omitido
+2026-10-06 12:59:03,578 INFO Listo: 0 fila(s) escritas en C:\Users\Ccamposn\Downloads\billingRequest\invoices_output.csv
+2026-10-06 13:09:39,040 INFO Pares a procesar: 1
+2026-10-06 13:09:39,899 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 13:10:02,331 INFO rut=4999193-2 cliente=471430 -> invoice=125121932
+2026-10-06 13:10:06,113 INFO invoice=125121932: 4 item(s) agregados
+2026-10-06 13:10:10,400 INFO Resumen: 1 procesado(s), 0 sin boleta, 0 fallido(s)
+2026-10-06 13:10:10,404 INFO Listo: 4 fila(s) escritas en C:\Users\Ccamposn\Downloads\billingRequest\invoices_output.csv
+2026-10-06 13:12:22,231 INFO Pares a procesar: 1
+2026-10-06 13:12:23,069 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 13:12:41,090 INFO rut=4999193-2 cliente=471430 -> invoice=125121932
+2026-10-06 13:12:44,301 INFO invoice=125121932: 4 item(s) agregados
+2026-10-06 13:12:47,771 INFO Resumen: 1 procesado(s), 0 sin boleta, 0 fallido(s)
+2026-10-06 13:13:03,227 INFO Pares a procesar: 1
+2026-10-06 13:13:04,056 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 13:13:23,383 INFO rut=4999193-2 cliente=471430 -> invoice=125121932
+2026-10-06 13:13:26,623 INFO invoice=125121932: 4 item(s) agregados
+2026-10-06 13:13:29,892 INFO Resumen: 1 procesado(s), 0 sin boleta, 0 fallido(s)
+2026-10-06 13:13:29,896 INFO Listo: 4 fila(s) escritas en C:\Users\Ccamposn\Downloads\billingRequest\invoices_output.csv
+2026-10-06 14:23:24,856 INFO Pares a procesar: 3
+2026-10-06 14:23:30,169 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 14:23:48,133 INFO rut=4999193-2 cliente=471430 -> invoice=125121932
+2026-10-06 14:23:51,027 INFO invoice=125121932: 4 item(s) agregados
+2026-10-06 14:23:57,709 WARNING Intento 1 para https://www.chilquinta.cl/invoice/only/detail/006/nis/294210?isLogged=false -> HTTP 500
+2026-10-06 14:23:57,710 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 14:24:14,158 INFO rut=8728501-4 cliente=294210 -> invoice=125152216
+2026-10-06 14:24:17,350 INFO invoice=125152216: 4 item(s) agregados
+2026-10-06 14:24:32,605 INFO rut=7051479-6 cliente=535090 -> invoice=125124237
+2026-10-06 14:24:35,487 INFO invoice=125124237: 7 item(s) agregados
+2026-10-06 14:24:39,012 INFO Resumen: 3 procesado(s), 0 sin boleta, 0 fallido(s)
+2026-10-06 14:24:39,016 INFO Listo: 15 fila(s) escritas en C:\Users\Ccamposn\Downloads\billingRequest\invoices_output.csv

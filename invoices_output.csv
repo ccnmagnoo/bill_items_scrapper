@@ -1,0 +1,16 @@
+﻿rut;cliente;invoice_number;amount;detail;energyPot;receivable
+4999193-2;471430;125121932;$1.244;{'amountExempt': '$0', 'amountTotal': '$1.244', 'amountUnTax': '$1.045', 'tax': '$199'};;Administración del servicio 
+4999193-2;471430;125121932;$11.898;{'amountExempt': '$0', 'amountTotal': '$11.898', 'amountUnTax': '$9.998', 'tax': '$1.900'};47;Electricidad consumida  47 kWh 
+4999193-2;471430;125121932;$1.836;{'amountExempt': '$40', 'amountTotal': '$1.836', 'amountUnTax': '$1.509', 'tax': '$287'};;Coordinación y transporte de electricidad 
+4999193-2;471430;125121932;$-2.891;{'amountExempt': '$0', 'amountTotal': '$-2.891', 'amountUnTax': '$0', 'tax': '$0'};;Subsidio eléctrico ley N° 21.667 (cuota 3 de 6)
+8728501-4;294210;125152216;$1.244;{'amountExempt': '$0', 'amountTotal': '$1.244', 'amountUnTax': '$1.045', 'tax': '$199'};;Administración del servicio 
+8728501-4;294210;125152216;$37.470;{'amountExempt': '$0', 'amountTotal': '$37.470', 'amountUnTax': '$31.486', 'tax': '$5.984'};148;Electricidad consumida  148 kWh 
+8728501-4;294210;125152216;$5.788;{'amountExempt': '$127', 'amountTotal': '$5.788', 'amountUnTax': '$4.756', 'tax': '$905'};;Coordinación y transporte de electricidad 
+8728501-4;294210;125152216;$-2.891;{'amountExempt': '$0', 'amountTotal': '$-2.891', 'amountUnTax': '$0', 'tax': '$0'};;Subsidio eléctrico ley N° 21.667 (cuota 3 de 6)
+7051479-6;535090;125124237;$1.244;{'amountExempt': '$0', 'amountTotal': '$1.244', 'amountUnTax': '$1.045', 'tax': '$199'};;Administración del servicio 
+7051479-6;535090;125124237;$60.250;{'amountExempt': '$0', 'amountTotal': '$60.250', 'amountUnTax': '$50.630', 'tax': '$9.620'};238;Electricidad consumida  238 kWh 
+7051479-6;535090;125124237;$9.305;{'amountExempt': '$203', 'amountTotal': '$9.305', 'amountUnTax': '$7.649', 'tax': '$1.453'};;Coordinación y transporte de electricidad 
+7051479-6;535090;125124237;$3.310;{'amountExempt': '$0', 'amountTotal': '$3.310', 'amountUnTax': '$2.782', 'tax': '$528'};;Interés por Mora 
+7051479-6;535090;125124237;$5.562;{'amountExempt': '$0', 'amountTotal': '$5.562', 'amountUnTax': '$4.674', 'tax': '$888'};0;Int. Financ. Suministro
+7051479-6;535090;125124237;$7.053;{'amountExempt': '$0', 'amountTotal': '$7.053', 'amountUnTax': '$0', 'tax': '$0'};0;Convenio Suministro 5/24
+7051479-6;535090;125124237;$94.131;{'amountExempt': '$0', 'amountTotal': '$94.131', 'amountUnTax': '$0', 'tax': '$0'};0;SALDO ANTERIOR
