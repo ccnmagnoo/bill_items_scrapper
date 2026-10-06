@@ -1,16 +1,31 @@
 ﻿rut;cliente;invoice_number;amount;detail;energyPot;receivable
-4999193-2;471430;125121932;$1.244;{'amountExempt': '$0', 'amountTotal': '$1.244', 'amountUnTax': '$1.045', 'tax': '$199'};;Administración del servicio 
-4999193-2;471430;125121932;$11.898;{'amountExempt': '$0', 'amountTotal': '$11.898', 'amountUnTax': '$9.998', 'tax': '$1.900'};47;Electricidad consumida  47 kWh 
-4999193-2;471430;125121932;$1.836;{'amountExempt': '$40', 'amountTotal': '$1.836', 'amountUnTax': '$1.509', 'tax': '$287'};;Coordinación y transporte de electricidad 
-4999193-2;471430;125121932;$-2.891;{'amountExempt': '$0', 'amountTotal': '$-2.891', 'amountUnTax': '$0', 'tax': '$0'};;Subsidio eléctrico ley N° 21.667 (cuota 3 de 6)
-8728501-4;294210;125152216;$1.244;{'amountExempt': '$0', 'amountTotal': '$1.244', 'amountUnTax': '$1.045', 'tax': '$199'};;Administración del servicio 
-8728501-4;294210;125152216;$37.470;{'amountExempt': '$0', 'amountTotal': '$37.470', 'amountUnTax': '$31.486', 'tax': '$5.984'};148;Electricidad consumida  148 kWh 
-8728501-4;294210;125152216;$5.788;{'amountExempt': '$127', 'amountTotal': '$5.788', 'amountUnTax': '$4.756', 'tax': '$905'};;Coordinación y transporte de electricidad 
-8728501-4;294210;125152216;$-2.891;{'amountExempt': '$0', 'amountTotal': '$-2.891', 'amountUnTax': '$0', 'tax': '$0'};;Subsidio eléctrico ley N° 21.667 (cuota 3 de 6)
-7051479-6;535090;125124237;$1.244;{'amountExempt': '$0', 'amountTotal': '$1.244', 'amountUnTax': '$1.045', 'tax': '$199'};;Administración del servicio 
-7051479-6;535090;125124237;$60.250;{'amountExempt': '$0', 'amountTotal': '$60.250', 'amountUnTax': '$50.630', 'tax': '$9.620'};238;Electricidad consumida  238 kWh 
-7051479-6;535090;125124237;$9.305;{'amountExempt': '$203', 'amountTotal': '$9.305', 'amountUnTax': '$7.649', 'tax': '$1.453'};;Coordinación y transporte de electricidad 
-7051479-6;535090;125124237;$3.310;{'amountExempt': '$0', 'amountTotal': '$3.310', 'amountUnTax': '$2.782', 'tax': '$528'};;Interés por Mora 
-7051479-6;535090;125124237;$5.562;{'amountExempt': '$0', 'amountTotal': '$5.562', 'amountUnTax': '$4.674', 'tax': '$888'};0;Int. Financ. Suministro
-7051479-6;535090;125124237;$7.053;{'amountExempt': '$0', 'amountTotal': '$7.053', 'amountUnTax': '$0', 'tax': '$0'};0;Convenio Suministro 5/24
-7051479-6;535090;125124237;$94.131;{'amountExempt': '$0', 'amountTotal': '$94.131', 'amountUnTax': '$0', 'tax': '$0'};0;SALDO ANTERIOR
+11224530-8;601689;125055374;$1.244;{'amountExempt': '$0', 'amountTotal': '$1.244', 'amountUnTax': '$1.045', 'tax': '$199'};;Administración del servicio 
+11224530-8;601689;125055374;$12.176;{'amountExempt': '$0', 'amountTotal': '$12.176', 'amountUnTax': '$10.233', 'tax': '$1.943'};50;Electricidad consumida  50 kWh 
+11224530-8;601689;125055374;$1.955;{'amountExempt': '$43', 'amountTotal': '$1.955', 'amountUnTax': '$1.606', 'tax': '$306'};;Coordinación y transporte de electricidad 
+11224530-8;601689;125055374;$141;{'amountExempt': '$0', 'amountTotal': '$141', 'amountUnTax': '$118', 'tax': '$23'};;Interés por Mora 
+11224530-8;601689;125055374;$-3.758;{'amountExempt': '$0', 'amountTotal': '$-3.758', 'amountUnTax': '$0', 'tax': '$0'};;Subsidio eléctrico ley N° 21.667 (cuota 3 de 6)
+15585849-4;601783;125055481;$1.244;{'amountExempt': '$0', 'amountTotal': '$1.244', 'amountUnTax': '$1.045', 'tax': '$199'};;Administración del servicio 
+15585849-4;601783;125055481;$46.756;{'amountExempt': '$0', 'amountTotal': '$46.756', 'amountUnTax': '$39.291', 'tax': '$7.465'};192;Electricidad consumida  192 kWh 
+15585849-4;601783;125055481;$7.505;{'amountExempt': '$164', 'amountTotal': '$7.505', 'amountUnTax': '$6.169', 'tax': '$1.172'};;Coordinación y transporte de electricidad 
+15585849-4;601783;125055481;$2.365;{'amountExempt': '$0', 'amountTotal': '$2.365', 'amountUnTax': '$1.987', 'tax': '$378'};;Interés por Mora 
+15585849-4;601783;125055481;$-5.204;{'amountExempt': '$0', 'amountTotal': '$-5.204', 'amountUnTax': '$0', 'tax': '$0'};;Subsidio eléctrico ley N° 21.667 (cuota 3 de 6)
+15585849-4;601783;125055481;$36.729;{'amountExempt': '$0', 'amountTotal': '$36.729', 'amountUnTax': '$0', 'tax': '$0'};0;SALDO ANTERIOR
+10303727-1;125725;124808990;$1.243;{'amountExempt': '$0', 'amountTotal': '$1.243', 'amountUnTax': '$1.045', 'tax': '$198'};;Administración del servicio 
+10303727-1;125725;124808990;$67.160;{'amountExempt': '$0', 'amountTotal': '$67.160', 'amountUnTax': '$56.436', 'tax': '$10.724'};276;Electricidad consumida  276 kWh 
+10303727-1;125725;124808990;$10.791;{'amountExempt': '$236', 'amountTotal': '$10.791', 'amountUnTax': '$8.870', 'tax': '$1.685'};;Coordinación y transporte de electricidad 
+10303727-1;125725;124808990;$3.957;{'amountExempt': '$0', 'amountTotal': '$3.957', 'amountUnTax': '$3.325', 'tax': '$632'};;Interés por Mora 
+10303727-1;125725;124808990;$-11.274;{'amountExempt': '$0', 'amountTotal': '$-11.274', 'amountUnTax': '$0', 'tax': '$0'};;Subsidio eléctrico ley N° 21.667 (cuota 1 hasta 3 de 6)
+10303727-1;125725;124808990;$184.941;{'amountExempt': '$0', 'amountTotal': '$184.941', 'amountUnTax': '$0', 'tax': '$0'};0;SALDO ANTERIOR
+7995701-1;195037;124946854;$1.244;{'amountExempt': '$0', 'amountTotal': '$1.244', 'amountUnTax': '$1.045', 'tax': '$199'};;Administración del servicio 
+7995701-1;195037;124946854;$40.416;{'amountExempt': '$0', 'amountTotal': '$40.416', 'amountUnTax': '$33.963', 'tax': '$6.453'};166;Electricidad consumida  166 kWh 
+7995701-1;195037;124946854;$6.490;{'amountExempt': '$142', 'amountTotal': '$6.490', 'amountUnTax': '$5.334', 'tax': '$1.014'};;Coordinación y transporte de electricidad 
+7995701-1;195037;124946854;$-15.612;{'amountExempt': '$0', 'amountTotal': '$-15.612', 'amountUnTax': '$0', 'tax': '$0'};;Subsidio eléctrico ley N° 21.667 (cuota 1 hasta 3 de 6)
+7778211-7;601792;125055402;$1.244;{'amountExempt': '$0', 'amountTotal': '$1.244', 'amountUnTax': '$1.045', 'tax': '$199'};;Administración del servicio 
+7778211-7;601792;125055402;$60.392;{'amountExempt': '$0', 'amountTotal': '$60.392', 'amountUnTax': '$50.749', 'tax': '$9.643'};248;Electricidad consumida  248 kWh 
+7778211-7;601792;125055402;$9.697;{'amountExempt': '$212', 'amountTotal': '$9.697', 'amountUnTax': '$7.972', 'tax': '$1.513'};;Coordinación y transporte de electricidad 
+7778211-7;601792;125055402;$81;{'amountExempt': '$0', 'amountTotal': '$81', 'amountUnTax': '$68', 'tax': '$13'};;Interés por Mora 
+7778211-7;601792;125055402;$-5.204;{'amountExempt': '$0', 'amountTotal': '$-5.204', 'amountUnTax': '$0', 'tax': '$0'};;Subsidio eléctrico ley N° 21.667 (cuota 3 de 6)
+4948274-4;194908;124946742;$1.244;{'amountExempt': '$0', 'amountTotal': '$1.244', 'amountUnTax': '$1.045', 'tax': '$199'};;Administración del servicio 
+4948274-4;194908;124946742;$25.563;{'amountExempt': '$0', 'amountTotal': '$25.563', 'amountUnTax': '$21.482', 'tax': '$4.081'};105;Electricidad consumida  105 kWh 
+4948274-4;194908;124946742;$4.106;{'amountExempt': '$90', 'amountTotal': '$4.106', 'amountUnTax': '$3.376', 'tax': '$640'};;Coordinación y transporte de electricidad 
+4948274-4;194908;124946742;$-11.274;{'amountExempt': '$0', 'amountTotal': '$-11.274', 'amountUnTax': '$0', 'tax': '$0'};;Subsidio eléctrico ley N° 21.667 (cuota 1 hasta 3 de 6)

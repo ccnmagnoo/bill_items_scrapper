@@ -45,3 +45,32 @@
 2026-10-06 14:24:35,487 INFO invoice=125124237: 7 item(s) agregados
 2026-10-06 14:24:39,012 INFO Resumen: 3 procesado(s), 0 sin boleta, 0 fallido(s)
 2026-10-06 14:24:39,016 INFO Listo: 15 fila(s) escritas en C:\Users\Ccamposn\Downloads\billingRequest\invoices_output.csv
+2026-10-06 15:36:49,749 INFO Pares a procesar: 1
+2026-10-06 15:36:59,210 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 15:37:39,696 WARNING Intento 1 para https://www.chilquinta.cl/profile/public/validate-notlogged/006/rut/69051100-2/nis/1021159 -> HTTP 504
+2026-10-06 15:37:39,697 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 15:38:26,512 WARNING Intento 2 para https://www.chilquinta.cl/profile/public/validate-notlogged/006/rut/69051100-2/nis/1021159 -> HTTP 504
+2026-10-06 15:38:26,512 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 15:39:12,233 WARNING Intento 3 para https://www.chilquinta.cl/profile/public/validate-notlogged/006/rut/69051100-2/nis/1021159 -> HTTP 504
+2026-10-06 15:39:12,240 ERROR rut=69051100-2 cliente=1021159: validacion HTTP 504 -> omitido
+2026-10-06 15:39:16,190 INFO Resumen: 0 procesado(s), 0 sin boleta, 1 fallido(s)
+2026-10-06 15:39:16,198 INFO Listo: 0 fila(s) escritas en C:\Users\Ccamposn\Downloads\billingRequest\invoices_output.csv
+2026-10-06 16:08:01,857 INFO Pares a procesar: 9
+2026-10-06 16:08:03,872 INFO Calentando navegador en https://www.chilquinta.cl
+2026-10-06 16:08:17,640 INFO rut=11737212-K cliente=113235: existVoucher=False -> sin boleta, omitido
+2026-10-06 16:08:32,295 INFO rut=11224530-8 cliente=601689 -> invoice=125055374
+2026-10-06 16:08:35,028 INFO invoice=125055374: 5 item(s) agregados
+2026-10-06 16:08:50,129 INFO rut=15585849-4 cliente=601783 -> invoice=125055481
+2026-10-06 16:08:54,265 INFO invoice=125055481: 6 item(s) agregados
+2026-10-06 16:09:08,192 INFO rut=10303727-1 cliente=125725 -> invoice=124808990
+2026-10-06 16:09:10,912 INFO invoice=124808990: 6 item(s) agregados
+2026-10-06 16:09:14,782 INFO rut=12827141-4 cliente=125648: existVoucher=False -> sin boleta, omitido
+2026-10-06 16:09:17,921 INFO rut=13368623-1 cliente=601707: existVoucher=False -> sin boleta, omitido
+2026-10-06 16:09:33,230 INFO rut=7995701-1 cliente=195037 -> invoice=124946854
+2026-10-06 16:09:35,987 INFO invoice=124946854: 4 item(s) agregados
+2026-10-06 16:09:50,704 INFO rut=7778211-7 cliente=601792 -> invoice=125055402
+2026-10-06 16:09:53,505 INFO invoice=125055402: 5 item(s) agregados
+2026-10-06 16:10:06,757 INFO rut=4948274-4 cliente=194908 -> invoice=124946742
+2026-10-06 16:10:11,056 INFO invoice=124946742: 4 item(s) agregados
+2026-10-06 16:10:14,550 INFO Resumen: 6 procesado(s), 3 sin boleta, 0 fallido(s)
+2026-10-06 16:10:14,553 INFO Listo: 30 fila(s) escritas en C:\Users\Ccamposn\Downloads\billingRequest\invoices_output.csv
